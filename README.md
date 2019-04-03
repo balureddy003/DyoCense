@@ -16,3 +16,16 @@ Solutions Offered
 
 <img src="https://github.com/balureddy003/DyoCense/blob/master/dyocense%20platform_3.png" 
 alt="IMAGE ALT TEXT HERE"/>
+
+AI
+========
+
+<img src="https://github.com/balureddy003/DyoCense/blob/master/dyocense%20platform_4.png" 
+alt="IMAGE ALT TEXT HERE"/>
+
+
+Technology Stack
+========
+
+<img src="https://github.com/balureddy003/DyoCense/blob/master/dyocense%20platform_5.png" 
+alt="IMAGE ALT TEXT HERE"/>
