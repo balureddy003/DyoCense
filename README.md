@@ -17,7 +17,7 @@ Solutions Offered
 <img src="https://github.com/balureddy003/DyoCense/blob/master/dyocense%20platform_3.png" 
 alt="IMAGE ALT TEXT HERE"/>
 
-AI
+Artificial Intelligence
 ========
 
 <img src="https://github.com/balureddy003/DyoCense/blob/master/dyocense%20platform_4.png" 
